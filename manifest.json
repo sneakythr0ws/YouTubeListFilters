@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "YouTube Playlist Filter",
+  "description": "YouTube Playlist Filter",
+  "version": "1",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.youtube.com/*"
+      ],
+      "js": [
+        "script.js"
+      ]
+    }
+  ],
+  "permissions": [
+    "storage"
+  ]
+}
