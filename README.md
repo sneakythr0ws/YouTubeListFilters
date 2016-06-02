@@ -1,2 +1,2 @@
-# YouTube Playlist Filter
-Filters for YouTube playlists
+# Chrome YouTube Filters
+Chrome Extension for YouTube filtering

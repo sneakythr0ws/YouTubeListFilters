@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "YouTube Playlist Filter",
-  "description": "YouTube Playlist Filter",
+  "name": "Chrome YouTube Filters",
+  "description": "Chrome YouTube Filters",
   "version": "1",
   "content_scripts": [
     {
